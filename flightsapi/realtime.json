@@ -1,11 +1,11 @@
 {"planes":[
-    {"flight_number": "GF002","origin": "Manas", "time":"17:55","airline":"Gulf AIR","status":"on time","longitude":"25.99497","latitude":"50.50808"},
-    {"flight_number": " GF7096","origin": "Calicut","time":"18:00","airline":"Lufthansa","status":"on time","longitude":"21.30269","latitude":"70.63696"},
-    {"flight_number": "GF2184","origin": "Dubai","time":"18:10","airline":"Lufthansa","status":"on time","longitude":"36.49413","latitude":"57.5421"},
-    {"flight_number": "GF044","origin": "Cairo","time":"18:15","airline":"Egyprian AIR","status":"on time","longitude":"39.98585","latitude":"45.50659"},
-    {"flight_number": "GF2184","origin": "Dubai","time":"18:10","airline":"Lufthansa","status":"on time","longitude":"40.93163","latitude":"83.81726"},
-    {"flight_number": "GF044","origin": "Cairo","time":"18:15","airline":"Egyprian AIR","status":"on time","longitude":"41.5183","latitude":"74.78081"},
-    {"flight_number": "GF2168","origin": "Abu Dhabi","time":"18:20","airline":"Gulf AIR","status":"on time","longitude":"41.42079","latitude":"73.5783"},
-    {"flight_number": "GF2168","origin": "Abu Dhabi","time":"18:20","airline":"Gulf AIR","status":"on time","longitude":"42.08414","latitude":"50.6260439"}
+    {"flight_number": "GF002","origin": "Manas", "time":"17:55","airline":"Gulf AIR","status":"on time","longitude":"25.99497","latitude":"50.50808","direction":"To BIA"},
+    {"flight_number": " GF7096","origin": "Calicut","time":"18:00","airline":"Lufthansa","status":"on time","longitude":"21.30269","latitude":"70.63696","direction":"To BIA"},
+    {"flight_number": "GF2184","origin": "Dubai","time":"18:10","airline":"Lufthansa","status":"on time","longitude":"36.49413","latitude":"57.5421","direction":"From BIA"},
+    {"flight_number": "GF044","origin": "Cairo","time":"18:15","airline":"Egyprian AIR","status":"on time","longitude":"39.98585","latitude":"45.50659","direction":"From BIA"},
+    {"flight_number": "GF2184","origin": "Dubai","time":"18:10","airline":"Lufthansa","status":"on time","longitude":"40.93163","latitude":"83.81726","direction":"To BIA"},
+    {"flight_number": "GF044","origin": "Cairo","time":"18:15","airline":"Egyprian AIR","status":"on time","longitude":"41.5183","latitude":"74.78081","direction":"To BIA"},
+    {"flight_number": "GF2168","origin": "Abu Dhabi","time":"18:20","airline":"Gulf AIR","status":"on time","longitude":"41.42079","latitude":"73.5783","direction":"From BIA"},
+    {"flight_number": "GF2168","origin": "Abu Dhabi","time":"18:20","airline":"Gulf AIR","status":"on time","longitude":"42.08414","latitude":"50.6260439","direction":"From BIA"}
     ]
 }    
