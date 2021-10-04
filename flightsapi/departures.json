@@ -1,5 +1,5 @@
 [
-    {"flight_number": "FZ884","origin": "Dubai", "time":"11:55","airline":"Lufthansa","status":"on time"},
+    {"flight_number": "FZ884","origin": "Dubai", "time":"11:55","airline":"Lufthansa","status":"cancelled"},
     {"flight_number": "JX371","origin": "Calicut","time":"12:00","airline":"Gulf AIR","status":"on time"},
     {"flight_number": "GF505","origin": "Dubai","time":"13:00","airline":"Gulf AIR","status":"on time"},
     {"flight_number": "E5612","origin": "Cairo","time":"13:15","airline":"Egyprian AIR","status":"cancelled"},
